@@ -1,0 +1,26 @@
+div {
+    text-align: center;
+    
+    
+    font-size: 20px;
+    /* width: fit-content; */
+    
+}
+
+
+    a:link {
+        color: blue;
+    }
+    
+    a:visited {
+        color: gray;
+    }
+    
+    a:hover, a:focus {
+        text-decoration:double;
+    }
+    
+    a:active {
+        font-weight: bold;
+    }
+
